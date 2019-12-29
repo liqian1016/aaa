@@ -13,7 +13,7 @@ import com.liqian.movie.vo.MovieVO;
 
 @Controller
 public class MovieController {
-
+//远程仓库改变
 	@Autowired
 	private MovieService service;
 	
